@@ -1,6 +1,6 @@
 {
-    "name" : "Default",
-    "description" : "Lorem Ipsum",
+    "Name" : "Default",
+    "Description" : "Lorem Ipsum",
     "Color" : "Black",
     "Number" : "0"
 }
